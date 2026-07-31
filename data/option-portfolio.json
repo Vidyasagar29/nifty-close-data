@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T11:59:18Z",
+  "lastUpdated": "2026-07-31T12:08:28Z",
   "config": {
     "quantity": 2475,
     "putStrike": 26000,
@@ -1199,6 +1199,14 @@
       "callPrice": 5.285935,
       "portfolioValue": 63526441.529071,
       "pnl": -506265.07182
+    },
+    {
+      "date": "2026-07-31",
+      "spot": 24383.6,
+      "putPrice": 1318.301621,
+      "callPrice": 5.841542,
+      "portfolioValue": 63597748.69582,
+      "pnl": -434957.905071
     }
   ]
 }
